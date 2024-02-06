@@ -7,3 +7,5 @@
 ## Stashing
 
 ## Merging
+
+## Adding
